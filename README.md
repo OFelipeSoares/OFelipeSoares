@@ -5,8 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/ofelipesoares">
-  <img height="130" src="https://github-readme-stats.vercel.app/api?username=ofelipesoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipesoares&layout=compact&langs_count=7&theme=dark"/>
+  <img align="130em" src="https://github-readme-stats.vercel.app/api?username=ofelipesoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" alt="Felipe GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipesoares&theme=dark&layout=compact"/>
+  
 </div>
 
 
