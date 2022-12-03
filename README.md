@@ -7,6 +7,7 @@
   <a href="https://github.com/ofelipesoares">
   <img align="120em" src="https://github-readme-stats.vercel.app/api?username=ofelipesoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="120em" alt="Felipe GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofelipesoares&theme=dark&layout=compact"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OFelipeSoares&theme=tokyonight)
   
 </div>
 
