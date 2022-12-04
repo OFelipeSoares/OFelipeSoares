@@ -1,6 +1,6 @@
 ### Opa! Sou o Felipe👋
 
-- 🔭 Hoje trabalho com frnt-end
+- 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JS, HTML e CSS
 
 <div align="center">
