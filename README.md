@@ -1,4 +1,4 @@
-### Opa! Sou o Felipe👋
+### Opa! Sou o Felipe, tudo certo? 
 
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando JS, HTML e CSS
