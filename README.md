@@ -1,7 +1,7 @@
 ### Opa! Sou o Felipe, tudo certo? 
 
-- 🔭 Estou no início da minha carreira como desenvolvedor
-- 🌱 Estudando JS, HTML e CSS
+- 🧑🏻‍💻 Dev Back-end [em início de carreira]
+- 🌱 Estudando C# e .NET
 
 <div align="center">
   <a href="https://github.com/ofelipesoares">
